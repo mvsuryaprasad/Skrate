@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Skrate/static/css/main.76acbacb.css",
+    "main.js": "/Skrate/static/js/main.11a53c3c.js",
+    "index.html": "/Skrate/index.html",
+    "main.76acbacb.css.map": "/Skrate/static/css/main.76acbacb.css.map",
+    "main.11a53c3c.js.map": "/Skrate/static/js/main.11a53c3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76acbacb.css",
+    "static/js/main.11a53c3c.js"
+  ]
+}
